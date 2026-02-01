@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Leravel**
 
 - 💬 Ask me about **Web Development**
 
